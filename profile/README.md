@@ -1,8 +1,10 @@
 <div align="center">
 
 <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="./open-native-logo-inverted.png">
   <img alt="open native logo" width="400" src="./open-native-logo.png">
+  
 </picture>
  
 </div>
