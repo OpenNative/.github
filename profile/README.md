@@ -2,8 +2,8 @@
 
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="./open-native-logo-inverted.png">
-  <img alt="open native logo" width="400" src="./open-native-logo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OpenNative/.github/raw/main/profile/open-native-logo-inverted.png">
+  <img alt="open native logo" width="400" src="https://github.com/OpenNative/.github/raw/main/profile/open-native-logo.png">
   
 </picture>
  
